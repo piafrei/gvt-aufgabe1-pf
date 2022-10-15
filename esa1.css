@@ -1,0 +1,18 @@
+#image {
+  height:544px;
+  width: 489px;
+background: 
+url('images/wiki.png') 0px 0px;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.m-50{
+	margin: 50px;
+}
+
+body{
+ margin-top: 5%;
+}
